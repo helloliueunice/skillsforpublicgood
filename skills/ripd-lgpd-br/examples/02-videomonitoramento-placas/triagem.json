@@ -1,0 +1,14 @@
+{
+ "criterios_gerais": {"larga_escala": true, "afeta_direitos": true},
+ "criterios_especificos": {"tecnologia_emergente": false, "vigilancia_zona_publica": true, "decisao_automatizada": false, "sensiveis_ou_vulneraveis": false},
+ "justificativas": {
+  "larga_escala": "cerca de 200 mil leituras por dia, em toda a cidade, de forma contínua",
+  "afeta_direitos": "o alerta pode levar à abordagem policial de motorista, inclusive por leitura errada da placa",
+  "vigilancia_zona_publica": "monitoramento sistemático de vias públicas",
+  "decisao_automatizada": "o alerta é conferido por agente antes de qualquer abordagem [CONFERIR com a PM]",
+  "tecnologia_emergente": "LPR é tecnologia consolidada; não há biometria",
+  "sensiveis_ou_vulneraveis": "não há dado sensível previsto"
+ },
+ "seguranca_publica_exclusiva": false,
+ "orgao_sisp_federal": false
+}

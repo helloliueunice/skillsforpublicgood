@@ -1,0 +1,549 @@
+{
+ "sobre": "Base de dispositivos que a skill pode citar. Cada item verificado foi lido na fonte oficial em 'conferido_em' (horário de Brasília). Item com verificado=false não pode ser citado como fundamento: escreva 'não verificado' e indique o link.",
+ "conferencia": "2026-11-20",
+ "itens": [
+  {
+   "id": "LGPD-4-III",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 4º, III, e § 3º",
+   "resumo": "A LGPD não se aplica ao tratamento feito para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou investigação e repressão de infrações penais (inciso III); nesses casos, a autoridade nacional deverá solicitar relatórios de impacto aos responsáveis (§ 3º).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-I",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, I",
+   "resumo": "Dado pessoal: informação relacionada a pessoa natural identificada ou identificável.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-II",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, II",
+   "resumo": "Dado pessoal sensível: origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-III",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, III",
+   "resumo": "Dado anonimizado: dado relativo a titular que não possa ser identificado, considerando meios técnicos razoáveis e disponíveis na ocasião do tratamento.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-VI-VII",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, VI e VII",
+   "resumo": "Controlador: a quem competem as decisões sobre o tratamento. Operador: quem trata dados em nome do controlador. Ambos podem ser de direito público ou privado.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-VIII",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, VIII",
+   "resumo": "Encarregado: pessoa indicada pelo controlador e pelo operador como canal de comunicação com os titulares e com a Agência Nacional de Proteção de Dados (ANPD). Redação dada pela Lei 15.352/2026.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-X",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, X",
+   "resumo": "Tratamento: toda operação com dados pessoais, como coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle, modificação, comunicação, transferência, difusão ou extração.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-XI",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, XI",
+   "resumo": "Anonimização: uso de meios técnicos razoáveis e disponíveis no momento do tratamento, pelos quais o dado perde a possibilidade de associação, direta ou indireta, a um indivíduo.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-XVI",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, XVI",
+   "resumo": "Uso compartilhado de dados: comunicação, difusão, transferência internacional, interconexão ou tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos, ou entre eles e entes privados.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-XVII",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, XVII",
+   "resumo": "Relatório de impacto à proteção de dados pessoais: documentação do controlador com a descrição dos processos de tratamento que podem gerar riscos às liberdades civis e aos direitos fundamentais, e as medidas, salvaguardas e mecanismos de mitigação de risco.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-6",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 6º, I a X",
+   "resumo": "Boa-fé e dez princípios: finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-7",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 7º, I a X",
+   "resumo": "Hipóteses legais para dados pessoais. Para o Poder Público, as mais comuns são o cumprimento de obrigação legal ou regulatória (II) e a execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres (III).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-9",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 9º",
+   "resumo": "Direito do titular ao acesso facilitado a informações claras, adequadas e ostensivas sobre o tratamento (finalidade, forma e duração, controlador, contato, uso compartilhado, entre outras).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-10-3",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 10, § 3º",
+   "resumo": "A autoridade nacional poderá solicitar RIPD quando o tratamento tiver como fundamento o interesse legítimo do controlador.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-11",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 11, II, a e b, e § 2º",
+   "resumo": "Dados sensíveis sem consentimento só quando indispensáveis, entre outras hipóteses, ao cumprimento de obrigação legal ou regulatória (II, a) ou ao tratamento compartilhado necessário à execução de políticas públicas previstas em leis ou regulamentos (II, b). Nesses dois casos, órgãos e entidades públicos dão publicidade à dispensa de consentimento (§ 2º).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-14",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 14, caput e § 1º",
+   "resumo": "O tratamento de dados de crianças e adolescentes deve ser feito em seu melhor interesse (caput). O § 1º prevê consentimento específico e em destaque de um dos pais ou do responsável para dados de crianças; ver o Enunciado CD/ANPD 1/2023 sobre as demais hipóteses legais.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-15-16",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "arts. 15 e 16",
+   "resumo": "Hipóteses de término do tratamento (art. 15) e eliminação após o término, com conservação autorizada para obrigação legal ou regulatória, estudo por órgão de pesquisa, transferência a terceiro nos termos da lei ou uso exclusivo do controlador com dados anonimizados (art. 16).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-18",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 18, I a IX",
+   "resumo": "Direitos do titular: confirmação, acesso, correção, anonimização/bloqueio/eliminação de dados desnecessários, portabilidade, eliminação de dados tratados com consentimento, informação sobre compartilhamento, informação sobre a possibilidade de não consentir e revogação do consentimento.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-20",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 20, caput e § 1º",
+   "resumo": "Direito de solicitar revisão de decisões tomadas unicamente com base em tratamento automatizado que afetem os interesses do titular, e de receber informações claras sobre critérios e procedimentos da decisão.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-23",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 23, caput, I e III",
+   "resumo": "Pessoas jurídicas de direito público tratam dados para atender a sua finalidade pública e executar competências legais, desde que informem as hipóteses de tratamento em veículos de fácil acesso (I) e indiquem encarregado (III).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-26",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 26, caput e § 1º",
+   "resumo": "O uso compartilhado pelo Poder Público deve atender a finalidades específicas de políticas públicas e atribuição legal, respeitados os princípios do art. 6º. O § 1º veda transferir a entidades privadas dados de bases públicas, salvo exceções (ex.: execução descentralizada de atividade pública).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-27",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 27",
+   "resumo": "Comunicação ou uso compartilhado de dados de pessoa jurídica de direito público a pessoa de direito privado: informado à autoridade nacional e dependente de consentimento, salvo as exceções dos incisos I a III. A informação à autoridade será objeto de regulamentação (parágrafo único).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-31",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 31",
+   "resumo": "Havendo infração por órgão público, a autoridade nacional poderá enviar informe com medidas para fazer cessar a violação.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-32",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 32",
+   "resumo": "A autoridade nacional poderá solicitar a agentes do Poder Público a publicação de relatórios de impacto à proteção de dados pessoais e sugerir padrões e boas práticas.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-33",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 33",
+   "resumo": "A transferência internacional de dados pessoais só é permitida nos casos listados (país com proteção adequada, garantias como cláusulas contratuais, entre outros).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-37",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 37",
+   "resumo": "Controlador e operador devem manter registro das operações de tratamento que realizarem, especialmente quando baseado no legítimo interesse.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-38",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 38, caput e parágrafo único",
+   "resumo": "A autoridade nacional poderá determinar ao controlador que elabore RIPD, inclusive de dados sensíveis, observados os segredos comercial e industrial. Conteúdo mínimo (parágrafo único): descrição dos tipos de dados coletados; metodologia utilizada para a coleta e para a garantia da segurança das informações; e análise do controlador sobre medidas, salvaguardas e mecanismos de mitigação de risco adotados.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-39",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 39",
+   "resumo": "O operador realiza o tratamento segundo as instruções do controlador, que verifica a observância dessas instruções e das normas.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-41",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 41, caput, § 1º e § 2º",
+   "resumo": "O controlador deve indicar encarregado, com identidade e contato divulgados publicamente; atividades do encarregado no § 2º.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-46",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 46, caput e § 2º",
+   "resumo": "Agentes de tratamento devem adotar medidas de segurança técnicas e administrativas; as medidas devem ser observadas desde a concepção do produto ou serviço até a execução (§ 2º).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-48",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 48",
+   "resumo": "O controlador deve comunicar à autoridade nacional e ao titular incidente de segurança que possa acarretar risco ou dano relevante, com o conteúdo mínimo do § 1º.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-49",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 49",
+   "resumo": "Os sistemas de tratamento devem ser estruturados para atender aos requisitos de segurança, às boas práticas e de governança e aos princípios da lei.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-50-2",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 50, § 2º, I, d",
+   "resumo": "O programa de governança em privacidade pode estabelecer políticas e salvaguardas com base em processo de avaliação sistemática de impactos e riscos à privacidade.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-55-A",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 55-A",
+   "resumo": "Cria a Agência Nacional de Proteção de Dados (ANPD), autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública. Redação dada pela Lei 15.352/2026.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-55-J-XIII",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 55-J, XIII",
+   "resumo": "Compete à ANPD editar regulamentos e procedimentos sobre relatórios de impacto para os casos em que o tratamento representar alto risco.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "L15352",
+   "norma": "Lei 15.352/2026",
+   "dispositivo": "arts. 1º, 19 e 21",
+   "resumo": "Altera a LGPD para dispor sobre a Agência Nacional de Proteção de Dados (art. 1º); fixa a vigência do ECA Digital (Lei 15.211/2025) em 17/03/2026 (art. 19, que inclui o art. 41-A); vigor na publicação (art. 21).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15352.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "l15352_webfetch.md (Planalto, lido em 20/11/2026)"
+  },
+  {
+   "id": "L15211",
+   "norma": "Lei 15.211/2025 (ECA Digital)",
+   "dispositivo": "lei inteira",
+   "resumo": "Proteção de crianças e adolescentes em ambientes digitais. Vigência em 17/03/2026 (Lei 15.352/2026, art. 19). O conteúdo dos artigos não foi conferido.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15211.htm",
+   "verificado": false,
+   "conferido_em": null,
+   "fonte_local": "não baixado",
+   "observacao": "Só a existência e a vigência foram conferidas (pela Lei 15.352/2026). Não cite artigos do ECA Digital: escreva 'não verificado' e indique o link."
+  },
+  {
+   "id": "DEC10046-2019",
+   "norma": "Decreto 10.046/2019",
+   "dispositivo": "ementa e art. 1º, caput e § 1º",
+   "resumo": "Dispõe sobre a governança no compartilhamento de dados no âmbito da administração pública federal e institui o Cadastro Base do Cidadão e o Comitê Central de Governança de Dados. Vale para o compartilhamento entre órgãos e entidades da administração federal direta, autárquica e fundacional e os demais Poderes da União (art. 1º); não se aplica ao compartilhamento com o setor privado (art. 1º, § 1º).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10046.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "d10046.txt (Planalto, captura da auditoria de 20/11/2026) e leitura do Planalto em 20/11/2026",
+   "observacao": "O Planalto traz 'Vide ADI 6649'; alterado pelos Decretos 10.332/2020, 10.403/2020, 11.266/2022 e 11.574/2023. Cite com [CONFERIR] e confira com a assessoria jurídica o efeito da ADI 6649 e a redação vigente."
+  },
+  {
+   "id": "RES2-2022-4",
+   "norma": "Resolução CD/ANPD 2/2022",
+   "dispositivo": "Regulamento anexo, art. 4º, I, II, § 1º e § 2º",
+   "resumo": "Tratamento de alto risco: atende cumulativamente a pelo menos um critério geral (larga escala; afetar significativamente interesses e direitos fundamentais) e um critério específico (tecnologias emergentes ou inovadoras; vigilância ou controle de zonas acessíveis ao público; decisões unicamente automatizadas, inclusive perfis; dados sensíveis ou de crianças, adolescentes e idosos). O § 1º caracteriza larga escala e o § 2º, afetação significativa. A ANPD indica usar este critério como parâmetro para o RIPD enquanto não houver regulamento específico.",
+   "link": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res2_anpd_page.txt (texto consolidado, alterado pela Res. CD/ANPD 15/2024, página modificada em 16/09/2026) e res2_2022.txt (DOU de 28/01/2022)",
+   "observacao": "O regulamento anexo é de aplicação da LGPD para agentes de tratamento de pequeno porte (ementa e art. 2º, I). Para órgão público, vale só como parâmetro indicado pela ANPD, 'no que couber', enquanto não houver regulamento de RIPD (perguntas e respostas da ANPD). Cite como orientação, com [CONFERIR], nunca como fundamento legal. Segundo a ANPD, os critérios não são exaustivos: o controlador pode verificar alto risco em outras situações."
+  },
+  {
+   "id": "RES15-2024-8",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 8º",
+   "resumo": "Regulamento de Comunicação de Incidente de Segurança. A ANPD poderá, a qualquer tempo, solicitar ao controlador informações adicionais sobre o incidente, inclusive o registro das operações de tratamento dos dados afetados, o RIPD e o relatório de tratamento do incidente, com prazo para o envio.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_dou.txt (DOU, captura da auditoria de 20/11/2026)",
+   "observacao": "Orientação regulatória da ANPD: cite com [CONFERIR]. O art. 2º desta resolução altera o art. 14, II, do regulamento da Res. CD/ANPD 2/2022."
+  },
+  {
+   "id": "RES18-2024-16",
+   "norma": "Resolução CD/ANPD 18/2024",
+   "dispositivo": "Regulamento anexo, art. 16, III, e art. 17",
+   "resumo": "Cabe ao encarregado prestar assistência e orientação ao agente de tratamento na elaboração, definição e implementação do RIPD (art. 16, III). Essas atividades não tornam o encarregado responsável, perante a ANPD, pela conformidade do tratamento feito pelo controlador (art. 17).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-18-de-16-de-julho-de-2024-572632074",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res18_2024.txt (DOU de 17/07/2024)",
+   "observacao": "Regulamento sobre a atuação do encarregado. Cite como orientação sobre o papel do encarregado, com [CONFERIR]; o fundamento legal do encarregado é a LGPD, art. 41."
+  },
+  {
+   "id": "RES19-2024",
+   "norma": "Resolução CD/ANPD 19/2024",
+   "dispositivo": "ementa",
+   "resumo": "Ato de 23/08/2024: aprova o Regulamento de Transferência Internacional de Dados e o conteúdo das cláusulas-padrão contratuais. Vigente com as alterações da Res. CD/ANPD 31/2025, segundo a lista oficial da ANPD.",
+   "link": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-19-de-23-de-agosto-de-2024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res19_anpd.txt e atos_anpd.txt (gov.br/anpd, captura da auditoria de 20/11/2026)",
+   "observacao": "Só número, data e ementa conferidos; os artigos não foram lidos. Cite com [CONFERIR] e não atribua a artigos específicos conteúdo que a skill não leu."
+  },
+  {
+   "id": "RES32-2026",
+   "norma": "Resolução CD/ANPD 32/2026",
+   "dispositivo": "ementa",
+   "resumo": "Ato de 26/01/2026: dispõe sobre o reconhecimento da União Europeia como organismo internacional com grau de proteção de dados pessoais adequado ao previsto na LGPD, para fins de transferência internacional de dados.",
+   "link": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "atos_anpd.txt (lista oficial de regulamentações da ANPD, captura da auditoria de 20/11/2026)",
+   "observacao": "Só número, data e ementa conferidos, na lista oficial. Cite com [CONFERIR]."
+  },
+  {
+   "id": "ENUNCIADO1-2023",
+   "norma": "Enunciado CD/ANPD 1/2023",
+   "dispositivo": "enunciado único",
+   "resumo": "Dados de crianças e adolescentes podem ser tratados com base nas hipóteses dos arts. 7º ou 11 da LGPD, desde que observado e prevalecente o seu melhor interesse, avaliado no caso concreto (art. 14).",
+   "link": "https://bibliotecadigital.mj.gov.br/bitstream/1/10215/2/Enunciado_ANPD_2023_1.html",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "enunciado1_2023.html"
+  },
+  {
+   "id": "ANPD-FAQ-RIPD",
+   "norma": "ANPD: Perguntas e respostas sobre o RIPD",
+   "dispositivo": "página (modificada em 23/09/2026)",
+   "resumo": "Orientação da ANPD: RIPD recomendado sempre que o tratamento puder gerar alto risco; até haver regulamento específico, usar 'no que couber' o art. 4º da Res. CD/ANPD 2/2022 como parâmetro, e esses critérios não são exaustivos; elaborar antes de iniciar o tratamento; metodologia de risco escolhida pelo controlador; encarregado deve ser consultado; um RIPD por projeto ou processo com a mesma finalidade; para órgãos públicos, a página diz que o RIPD 'deverá ser publicado' por determinação da ANPD (art. 32) ou pelo próprio controlador, quando não identificada hipótese de sigilo, em conformidade com a LAI; encaminhar à ANPD só quando requisitado; revisão contínua; lista recomendada de conteúdo (itens a a l).",
+   "link": "https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/relatorio-de-impacto-a-protecao-de-dados-pessoais-ripd",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "anpd_ripd.txt",
+   "observacao": "Documento orientativo, não é norma. Onde a página resume o art. 38 com outras palavras ('metodologia usada para o tratamento'), prevalece o texto da lei ('metodologia utilizada para a coleta'). Sobre a publicação: a página fala em 'determinação' e em 'deverá ser publicado'; a LGPD, art. 32, diz que a autoridade nacional 'poderá solicitar' a publicação. Na skill, a publicação continua opcional, e a minuta registra essa divergência."
+  },
+  {
+   "id": "PORT-SGD-9511-2025",
+   "norma": "Portaria SGD/MGI 9.511/2025 (PPSI)",
+   "dispositivo": "arts. 1º, 2º, III, e 5º",
+   "resumo": "Institui o Programa de Privacidade e Segurança da Informação (PPSI) nos órgãos e entidades da administração pública federal direta, autárquica e fundacional com unidades no SISP (art. 1º). Define informações críticas sobre privacidade e segurança (art. 2º, III) e restringe o acesso a elas a profissionais autorizados (art. 5º).",
+   "link": "https://www.in.gov.br/web/dou/-/portaria-sgd/mgi-n-9.511-de-28-de-outubro-de-2025-665815455",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "portaria9511.txt (DOU)",
+   "observacao": "Obrigatória só para o SISP federal. Para Estados, DF e Municípios, use como referência."
+  },
+  {
+   "id": "PPSI-GUIA-RIPD",
+   "norma": "SGD/MGI: Guia para Elaboração de RIPD (PPSI 2.0, v1.0, 31/07/2026)",
+   "dispositivo": "documento",
+   "resumo": "Orienta os órgãos do SISP sobre quando e por quem o RIPD deve ser elaborado, gestão de riscos com foco no titular, publicização e conteúdo. Recomenda, como boa prática, considerar o RIPD também quando houver dois ou mais fatores de risco, mesmo sem a combinação geral + específico.",
+   "link": "https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/ppsi-2.0/arquivos/guia-para-elaboracao-de-ripds-v0-1-31072026.pdf",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "ppsi_guia_ripd.pdf",
+   "observacao": "Licença CC BY-NC-ND 4.0: não copie o texto; apenas cite e aponte as seções. O nome do arquivo diz 'v0-1', mas o documento diz 'Versão 1.0, Brasília, 31 de julho de 2026'."
+  },
+  {
+   "id": "PPSI-MODELO-RIPD",
+   "norma": "SGD/MGI: Modelo de RIPD (PPSI 2.0, v1.0, 31/07/2026)",
+   "dispositivo": "documento, seções 1 a 7",
+   "resumo": "Modelo matriz para a versão integral (interna) e a versão publicizável. Seções: 1 contexto do produto ou serviço (inclui a necessidade do RIPD e a tabela de critérios de alto risco), 2 tratamento dos dados pessoais, 3 análise dos dez princípios, 4 direitos dos titulares, 5 gestão de riscos (escalas exemplificativas de 1 a 5, nível = impacto × probabilidade na Tabela 10, faixas da Tabela 11: pequeno 1–3, moderado 4–6, alto 8–12, crítico 15–25), 6 histórico de atualizações e 7 aprovação pelo representante do controlador. O quadro 'Medidas do framework do PPSI 2.0 apoiadas por este documento' aponta a medida 23.3 (o órgão elabora o RIPD dos processos que podem gerar riscos às liberdades civis e aos direitos fundamentais).",
+   "link": "https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/ppsi-2.0/arquivos/modelo-de-ripd-v1-0-31072026.pdf",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "ppsi_modelo_ripd.pdf",
+   "observacao": "Licença CC BY-NC-ND 4.0: não copie o texto; apenas cite e aponte as seções. A skill usa como referência, com crédito, as faixas numéricas da Tabela 11 e a lista de conteúdo publicizável do Modelo; nenhum texto foi copiado. As escalas são exemplos do modelo e devem seguir a metodologia do órgão."
+  },
+  {
+   "id": "LAI-8",
+   "norma": "Lei 12.527/2011 (LAI)",
+   "dispositivo": "art. 8º, caput",
+   "resumo": "Dever dos órgãos e entidades públicas de divulgar, independentemente de requerimento, em local de fácil acesso, informações de interesse coletivo ou geral por eles produzidas ou custodiadas (transparência ativa).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "l12527.txt (Planalto, captura da auditoria de 20/11/2026)"
+  },
+  {
+   "id": "LAI-23-24",
+   "norma": "Lei 12.527/2011 (LAI)",
+   "dispositivo": "arts. 23 e 24, caput",
+   "resumo": "Informações imprescindíveis à segurança da sociedade ou do Estado são passíveis de classificação (art. 23) como ultrassecreta, secreta ou reservada (art. 24).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "l12527.txt (Planalto, captura da auditoria de 20/11/2026)"
+  },
+  {
+   "id": "LAI-31",
+   "norma": "Lei 12.527/2011 (LAI)",
+   "dispositivo": "art. 31, caput e § 1º",
+   "resumo": "Informações pessoais relativas à intimidade, vida privada, honra e imagem têm acesso restrito, independentemente de classificação de sigilo, por até 100 anos, a agentes públicos autorizados e à pessoa a que se referem.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "l12527.htm (Planalto, baixado em 20/11/2026)"
+  },
+  {
+   "id": "ANPD-GUIA-PODER-PUBLICO",
+   "norma": "ANPD: Guia orientativo Tratamento de dados pessoais pelo Poder Público (v2.0, jun./2023)",
+   "dispositivo": "documento",
+   "resumo": "Leitura recomendada sobre hipóteses legais, princípios, compartilhamento e divulgação de dados pelo Poder Público.",
+   "link": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-poder-publico-anpd-versao-final.pdf/@@display-file/file",
+   "verificado": false,
+   "conferido_em": null,
+   "fonte_local": "anpd_guia_poder_publico.pdf",
+   "observacao": "Só a existência, a versão e o sumário foram conferidos. Não atribua ao guia afirmações específicas: escreva 'não verificado'."
+  },
+  {
+   "id": "ANPD-AGENDA",
+   "norma": "ANPD: Agenda Regulatória 2025-2026",
+   "dispositivo": "ações 2, 3 e 4",
+   "resumo": "Ação 2 (Relatório de Impacto à Proteção de Dados Pessoais): em andamento, em elaboração interna, sem consulta à sociedade. Ação 3 (compartilhamento de dados pelo Poder Público, arts. 26, 27 e 30 da LGPD): em andamento, com consulta pública de outubro a dezembro de 2025. Ação 4 (dados pessoais sensíveis: dados biométricos): em andamento, com tomada de subsídios de junho a agosto de 2025.",
+   "link": "https://www.gov.br/anpd/pt-br/assuntos/regulacao/agenda-regulatoria-1",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "anpd_agenda.html",
+   "observacao": "Situação muda com o tempo: reconfira antes de afirmar que não há regulamento."
+  }
+ ]
+}
