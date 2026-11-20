@@ -1,0 +1,18 @@
+{
+ "incidente_confirmado": true,
+ "dados_pessoais": true,
+ "so_dados_anonimizados": false,
+ "afeta_significativamente": true,
+ "criterios": {"sensiveis": false, "criancas_adolescentes_idosos": true, "financeiros": false, "autenticacao": false, "sigilo": false, "larga_escala": false},
+ "dados_ininteligiveis": true,
+ "orgao_federal": true,
+ "incidente_cibernetico": false,
+ "operador_envolvido": false,
+ "agente_pequeno_porte": false,
+ "criancas_ou_adolescentes": true,
+ "justificativas": {
+  "afeta_significativamente": "se legíveis, os dados de contato e endereço de adolescentes permitiriam assédio ou golpes",
+  "criancas_adolescentes_idosos": "planilha com 1.200 estudantes do ensino médio técnico, de 14 a 17 anos",
+  "dados_ininteligiveis": "disco com criptografia integral ativada; senha não estava junto do equipamento [CONFERIR com a TI]"
+ }
+}

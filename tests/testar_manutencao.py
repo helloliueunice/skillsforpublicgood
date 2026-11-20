@@ -17,7 +17,7 @@ import reconferir_fontes as rf  # noqa: E402
 
 falhas = []
 # Skills com metadata.proxima_revisao e a versão esperada de cada uma.
-SKILLS_COM_REVISAO = {"ripd-lgpd-br": "1.1.0-rc"}
+SKILLS_COM_REVISAO = {"incidente-dados-lgpd-br": "1.1.0-rc", "ripd-lgpd-br": "1.1.0-rc"}
 
 
 def rodar(args):

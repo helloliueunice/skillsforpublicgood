@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 Eunice Liu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Avisos de terceiros: esta skill não contém texto nem código copiado de terceiros.
+Textos de leis e demais atos oficiais não são objeto de proteção como direitos autorais
+(Lei 9.610/1998, art. 8º, IV, conferido em 20/11/2026 no Planalto).
+A página "Comunicação de Incidente de Segurança" da Agência Nacional de Proteção de Dados (ANPD), no
+portal gov.br, está sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada
+(CC BY-ND 3.0), conforme o rodapé do portal da ANPD, conferido em 20/11/2026. Ela é apenas citada,
+com link, e parafraseada; nenhum trecho foi copiado nem adaptado.
+O formulário de Comunicação de Incidente de Segurança da ANPD (.docx) não declara licença própria
+(não verificado). Ele foi apenas consultado; seus blocos são indicados por paráfrase, sem reprodução.
+Trechos de código de `scripts/_comum.py`, `scripts/dados_pessoais.py` e `evals/rodar_evals.py` vêm da skill `ripd-lgpd-br`,
+da mesma autora e sob a mesma licença.

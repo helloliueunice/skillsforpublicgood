@@ -1,0 +1,562 @@
+{
+ "sobre": "Base de dispositivos que a skill pode citar. Cada item verificado foi lido na fonte oficial em 'conferido_em' (horário de Brasília). Item com verificado=false não pode ser citado como fundamento: escreva 'não verificado' e indique o link. A Res. CD/ANPD 15/2024 é regulamento que obriga o órgão (LGPD, art. 48, § 1º); ao citá-la como fundamento, use a marca [CONFERIR vigência] como alerta.",
+ "conferencia": "2026-11-20",
+ "itens": [
+  {
+   "id": "LGPD-5-I",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, I",
+   "resumo": "Dado pessoal: informação relacionada a pessoa natural identificada ou identificável.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-II",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, II",
+   "resumo": "Dado pessoal sensível: origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização religiosa, filosófica ou política, dado de saúde ou da vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-5-VI-VII",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 5º, VI e VII",
+   "resumo": "Controlador (a quem competem as decisões sobre o tratamento) e operador (quem trata em nome do controlador), de direito público ou privado.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-6",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 6º, VII, VIII e X",
+   "resumo": "Princípios da segurança, da prevenção e da responsabilização e prestação de contas.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-12",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 12, caput",
+   "resumo": "Dados anonimizados não são dados pessoais, salvo quando a anonimização for revertida por meios próprios ou puder ser revertida com esforços razoáveis.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.txt"
+  },
+  {
+   "id": "LGPD-14",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 14",
+   "resumo": "Tratamento de dados de crianças e de adolescentes no seu melhor interesse.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-23",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 23",
+   "resumo": "Tratamento pelo Poder Público para atender a finalidade pública, com informação das hipóteses de tratamento e indicação de encarregado.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-31",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 31",
+   "resumo": "Infração por órgão público: a autoridade nacional pode enviar informe com medidas cabíveis para fazer cessar a violação.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-37",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 37",
+   "resumo": "Controlador e operador mantêm registro das operações de tratamento.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-39",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 39",
+   "resumo": "O operador trata segundo as instruções do controlador, que verifica a observância delas.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-41",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 41, caput, § 1º e § 2º",
+   "resumo": "O controlador indica encarregado, com identidade e contato divulgados; o encarregado recebe comunicações dos titulares e da autoridade nacional e adota providências.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-42",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 42",
+   "resumo": "Controlador ou operador que causar dano em violação à legislação de proteção de dados é obrigado a repará-lo.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-44",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 44",
+   "resumo": "Tratamento irregular quando não observa a legislação ou não fornece a segurança que o titular pode esperar.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-46",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 46",
+   "resumo": "Agentes de tratamento adotam medidas de segurança, técnicas e administrativas, contra acessos não autorizados e situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou tratamento inadequado.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-47",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 47",
+   "resumo": "Agentes e quem intervenha no tratamento garantem a segurança da informação, mesmo após o término.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-48",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 48, caput e § 1º",
+   "resumo": "O controlador deve comunicar à autoridade nacional e ao titular incidente de segurança que possa acarretar risco ou dano relevante. A comunicação é feita em prazo razoável definido pela autoridade e menciona, no mínimo: natureza dos dados afetados; informações sobre os titulares; medidas técnicas e de segurança usadas, observados os segredos comercial e industrial; riscos; motivos da demora, se não imediata; medidas adotadas ou a adotar para reverter ou mitigar o prejuízo.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-48-2",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 48, § 2º",
+   "resumo": "A autoridade nacional verifica a gravidade e pode determinar providências, como ampla divulgação do fato em meios de comunicação e medidas para reverter ou mitigar os efeitos.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-48-3",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 48, § 3º",
+   "resumo": "No juízo de gravidade, avalia-se a comprovação de medidas técnicas que tornem os dados afetados ininteligíveis para terceiros não autorizados.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-49",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 49",
+   "resumo": "Sistemas estruturados para atender requisitos de segurança, boas práticas, governança e princípios.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-50",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 50, § 2º, I, \"g\"",
+   "resumo": "Programa de governança em privacidade pode contar com planos de resposta a incidentes e remediação.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-52",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 52, § 1º, VII, VIII e X",
+   "resumo": "Na aplicação de sanções são considerados, entre outros, a cooperação do infrator, mecanismos internos para minimizar o dano e a pronta adoção de medidas corretivas.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-52-3",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 52, § 3º",
+   "resumo": "Às entidades e órgãos públicos podem ser aplicadas advertência, publicização da infração, bloqueio, eliminação, suspensão parcial do banco de dados, suspensão e proibição da atividade de tratamento (incisos I, IV, V, VI, X, XI e XII), sem prejuízo das Leis 8.112/1990, 8.429/1992 e 12.527/2011.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "LGPD-55-A",
+   "norma": "LGPD (Lei 13.709/2018)",
+   "dispositivo": "art. 55-A",
+   "resumo": "Cria a Agência Nacional de Proteção de Dados (ANPD), na redação da Lei 15.352/2026.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "lgpd.htm (Planalto, texto compilado, baixado em 20/11/2026 08:22)"
+  },
+  {
+   "id": "RES15-ANEXO-1",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 1º e art. 2º",
+   "resumo": "Objetivo: procedimentos para comunicar incidente que possa acarretar risco ou dano relevante (art. 48 da LGPD); objetivos incluem proteger direitos dos titulares e mitigar prejuízos.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-3",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 3º",
+   "resumo": "Definições, entre elas: categoria de dados; dado de autenticação em sistemas (credenciais como logins, tokens e senhas); dado financeiro; dado pessoal afetado; dados protegidos por sigilo legal, judicial ou profissional; incidente de segurança (evento adverso confirmado que viola confidencialidade, integridade, disponibilidade ou autenticidade de dados pessoais); natureza dos dados (gerais ou sensíveis); relatório de tratamento de incidente.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-4",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 4º",
+   "resumo": "O controlador deve comunicar à ANPD e ao titular incidente que possa acarretar risco ou dano relevante.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-5",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 5º, caput, I a VI, § 1º e § 2º",
+   "resumo": "Risco ou dano relevante: o incidente pode afetar significativamente interesses e direitos fundamentais E, cumulativamente, envolve ao menos um critério: dados sensíveis; dados de crianças, adolescentes ou idosos; dados financeiros; dados de autenticação em sistemas; dados protegidos por sigilo legal, judicial ou profissional; dados em larga escala. § 1º: afeta significativamente quando pode impedir o exercício de direitos ou o uso de serviço, ou causar danos materiais ou morais (discriminação, violação à integridade física, à imagem e à reputação, fraude financeira, roubo de identidade). § 2º: larga escala considera número de titulares, volume, duração, frequência e extensão geográfica.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-6",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 6º, caput e § 1º",
+   "resumo": "Comunicação à ANPD em três dias úteis, contados do conhecimento pelo controlador de que o incidente afetou dados pessoais, ressalvado prazo de legislação específica.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-6-2",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 6º, § 2º, I a XII",
+   "resumo": "Conteúdo da comunicação à ANPD: I natureza e categoria dos dados afetados; II número de titulares afetados, discriminando crianças, adolescentes e idosos; III medidas técnicas e de segurança antes e após o incidente; IV riscos e possíveis impactos; V motivos da demora; VI medidas para reverter ou mitigar; VII data da ocorrência (se possível) e do conhecimento; VIII dados do encarregado ou de quem represente o controlador; IX identificação do controlador e, se for o caso, declaração de agente de pequeno porte; X identificação do operador, quando aplicável; XI descrição do incidente e causa principal, se identificável; XII total de titulares tratados nas atividades afetadas.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-6-3",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 6º, §§ 3º a 8º",
+   "resumo": "Complementação fundamentada em vinte dias úteis da comunicação (§ 3º); formulário eletrônico da ANPD (§ 4º); comunicação pelo encarregado com comprovante de vínculo, ou por representante com procuração, apresentados no mesmo prazo (§§ 5º e 6º); sem os documentos, a ANPD pode abrir apuração (§ 7º); prazos em dobro para agentes de pequeno porte (§ 8º).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-7-8",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, arts. 7º e 8º",
+   "resumo": "O controlador pede, fundamentadamente, sigilo de informações protegidas por lei (art. 7º). A ANPD pode pedir a qualquer tempo informações adicionais, inclusive registro das operações, RIPD e relatório de tratamento do incidente (art. 8º).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-9",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 9º, caput, I a VII",
+   "resumo": "Comunicação ao titular em três dias úteis do conhecimento, com: I natureza e categoria dos dados; II medidas técnicas e de segurança; III riscos e possíveis impactos; IV motivos da demora; V medidas adotadas ou a adotar, quando cabíveis; VI data do conhecimento; VII contato para informações e, quando aplicável, do encarregado.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-9-1",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 9º, §§ 1º a 6º",
+   "resumo": "Linguagem simples e comunicação direta e individualizada quando possível (§ 1º), pelos meios usuais (telefone, e-mail, mensagem, carta, § 2º); se inviável, divulgação no sítio, aplicativos, mídias sociais e canais de atendimento por no mínimo três meses (§ 3º); declaração da comunicação aos titulares juntada ao processo em até três dias úteis do fim do prazo (§ 4º); recomendações ao titular podem ser boa prática (§ 5º); prazo em dobro para pequeno porte (§ 6º).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-10",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, art. 10, caput, § 1º e § 2º",
+   "resumo": "Registro de todo incidente, inclusive o não comunicado, por no mínimo cinco anos (caput), com: data de conhecimento; circunstâncias; natureza e categoria dos dados; número de titulares; avaliação do risco e possíveis danos; medidas de correção e mitigação; forma e conteúdo da comunicação; motivos da ausência de comunicação (§ 1º). Para as entidades do art. 23 da LGPD, o prazo de guarda segue as regras de guarda permanente da tabela de temporalidade própria ou do Conselho Nacional de Arquivos (§ 2º).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-11-15",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, arts. 11 a 15",
+   "resumo": "Processo de comunicação de incidente: fiscalização dos atos de resposta (art. 11), aplicando-se no que couber o Regulamento de Fiscalização (Res. CD/ANPD 1/2021); auditorias e inspeções (art. 12); início de ofício ou pela comunicação formalizada (art. 13); análise agregada (art. 14); medidas preventivas imediatas, com possível multa diária (art. 15).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-16-17",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, arts. 16 e 17",
+   "resumo": "A ANPD pode apurar incidente não comunicado; constatado, determina a comunicação e pode abrir processo sancionador pelo descumprimento dos arts. 6º e 9º.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-18-19",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, arts. 18 e 19",
+   "resumo": "Comunicação recebida só por canal específico indicado no sítio da ANPD (art. 18, parágrafo único). A ANPD avalia a gravidade pelos critérios do art. 5º e pode determinar ampla divulgação, às expensas do controlador, e medidas de mitigação (art. 19).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-22-23",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "Regulamento anexo, arts. 22 e 23",
+   "resumo": "As providências do art. 19 não são sanções (art. 22). Hipóteses de extinção do processo (art. 23), entre elas incidente sem potencial de risco ou dano relevante e comunicação adequada aos titulares.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES15-ART2",
+   "norma": "Resolução CD/ANPD 15/2024",
+   "dispositivo": "art. 2º da Resolução (não do anexo)",
+   "resumo": "Deu nova redação ao art. 14, II, do Regulamento da Res. CD/ANPD 2/2022 (pequeno porte), remetendo a comunicação de incidente ao Regulamento da Res. 15/2024.",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res15_2024_dou.txt (DOU de 26/04/2024, ed. 81, seção 1, p. 114; ANPD lista como 'Vigente' em 20/11/2026)"
+  },
+  {
+   "id": "RES2-2022-2",
+   "norma": "Resolução CD/ANPD 2/2022",
+   "dispositivo": "Regulamento anexo, art. 2º, I",
+   "resumo": "Agentes de tratamento de pequeno porte: microempresas, empresas de pequeno porte, startups, pessoas jurídicas de direito privado (inclusive sem fins lucrativos), pessoas naturais e entes privados despersonalizados. Pessoas jurídicas de direito público não constam da definição.",
+   "link": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res2_2022.txt (DOU de 28/01/2022); ANPD lista como 'Vigente com alterações pela Resolução CD/ANPD nº 15'"
+  },
+  {
+   "id": "RES1-2021-8",
+   "norma": "Resolução CD/ANPD 1/2021",
+   "dispositivo": "Regulamento anexo, art. 8º, caput e §§ 1º e 2º",
+   "resumo": "Prazos do Regulamento de Fiscalização: correm da ciência oficial, em dias úteis, excluído o dia do começo e incluído o do vencimento; prorrogam-se ao primeiro dia útil seguinte se não houver expediente na sede da ANPD (§ 1º) ou se o peticionamento eletrônico ficar indisponível, de forma comprovada (§ 2º).",
+   "link": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no1-2021",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res1_2021_anpd.txt (texto da ANPD, retificado pela Res. 4/2023; página modificada em 16/09/2026)",
+   "observacao": "A Res. 15/2024 manda aplicar a Res. 1/2021 'no que couber' (art. 11, parágrafo único). Usar o art. 8º para contar o prazo do art. 6º da Res. 15 é interpretação desta skill: [CONFERIR] com a assessoria jurídica. O art. 1º, § 2º, da mesma resolução trata da aplicação subsidiária da Lei 9.784/1999, não da contagem; por isso não é citado para prazos."
+  },
+  {
+   "id": "RES18-2024-15-16",
+   "norma": "Resolução CD/ANPD 18/2024",
+   "dispositivo": "Regulamento anexo, art. 15, parágrafo único, art. 16, I, e art. 17",
+   "resumo": "O encarregado recebe comunicações da ANPD e encaminha internamente (art. 15, parágrafo único); presta assistência e orientação no registro e na comunicação de incidente (art. 16, I); essas atividades não o tornam responsável pela conformidade do controlador (art. 17).",
+   "link": "https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-18-de-16-de-julho-de-2024-572632074",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "res18_2024.txt (DOU de 17/07/2024)"
+  },
+  {
+   "id": "D10748-12",
+   "norma": "Decreto 10.748/2021",
+   "dispositivo": "art. 1º, §§ 1º e 2º, e art. 12, IV, VI e § 1º",
+   "resumo": "Rede Federal de Gestão de Incidentes Cibernéticos: participação obrigatória da administração federal direta, autárquica e fundacional (art. 1º, § 1º) e voluntária, por adesão, das empresas públicas, sociedades de economia mista federais e suas subsidiárias (§ 2º). Os órgãos participantes comunicam imediatamente o CTIR Gov, por suas equipes de resposta, sobre a existência de vulnerabilidades ou incidentes de segurança cibernética que impactem ou possam impactar os serviços prestados ou contratados (art. 12, IV), e notificam os incidentes de maior impacto (art. 12, VI), definidos pela classificação de severidade do próprio órgão (§ 1º).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10748.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "d10748_webfetch.md (Planalto, via WebFetch em 20/11/2026)",
+   "observacao": "O art. 12, IV, diz 'nos termos do disposto no art. 17 do Decreto nº 9.637, de 2018'. Esse decreto foi revogado pelo Decreto 12.572/2025, art. 12, I: a remissão aponta hoje para norma revogada. O dever de comunicar ao CTIR Gov continua no Decreto 10.748/2021, que segue vigente; a forma de comunicar: [CONFERIR] com o GSI."
+  },
+  {
+   "id": "D10748-15",
+   "norma": "Decreto 10.748/2021",
+   "dispositivo": "art. 15, caput e § 1º",
+   "resumo": "Informações específicas sobre incidentes cibernéticos e configurações técnicas de ativos de órgãos federais são imprescindíveis à segurança da sociedade e do Estado e só podem ser acessadas por profissionais autorizados.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10748.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "d10748_webfetch.md"
+  },
+  {
+   "id": "LAI-31",
+   "norma": "Lei 12.527/2011 (LAI)",
+   "dispositivo": "art. 31, caput e § 1º",
+   "resumo": "Informações pessoais relativas à intimidade, vida privada, honra e imagem têm acesso restrito, independentemente de classificação, por até 100 anos.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "l12527.htm (Planalto, baixado em 20/11/2026)"
+  },
+  {
+   "id": "FERIADOS",
+   "norma": "Leis 662/1949 (redação da Lei 10.607/2002), 6.802/1980 e 14.759/2023",
+   "dispositivo": "art. 1º de cada lei",
+   "resumo": "Feriados nacionais: 1º/1, 21/4, 1º/5, 7/9, 12/10, 2/11, 15/11, 20/11 e 25/12.",
+   "link": "https://www.planalto.gov.br/ccivil_03/leis/l0662.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "feriados_webfetch.md (Planalto, via WebFetch em 20/11/2026)",
+   "observacao": "Links das outras: https://www.planalto.gov.br/ccivil_03/leis/l6802.htm e https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14759.htm. Carnaval, Sexta-feira da Paixão e Corpus Christi não constam dessas leis: informe-os com --feriados se não houver expediente."
+  },
+  {
+   "id": "ANPD-CIS",
+   "norma": "ANPD, página 'Comunicação de Incidente de Segurança'",
+   "dispositivo": "orientação (não é norma)",
+   "resumo": "A comunicação é feita pelo encarregado ou representante, por peticionamento no SEI!ANPD (processo novo; complementação por peticionamento intercorrente no mesmo processo). Comunicação preliminar não basta para cumprir o art. 48 e precisa ser complementada. Não é preciso enviar à ANPD a lista de titulares. Documento peticionado como público fica visível no módulo de pesquisa pública do SEI desde 1º/08/2024. Mera vulnerabilidade não é incidente; incidente só com dados anonimizados não precisa ser comunicado. O operador informa o controlador sem demora injustificada.",
+   "link": "https://www.gov.br/anpd/pt-br/canais_atendimento/agente-de-tratamento/comunicado-de-incidente-de-seguranca-cis",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "anpd_cis.txt (página modificada em 26/08/2026) e formulario_cis_anpd.docx (só consultado; não reproduzido)"
+  },
+  {
+   "id": "L15211",
+   "norma": "Lei 15.211/2025 (ECA Digital)",
+   "dispositivo": "não verificado",
+   "resumo": "Possíveis deveres adicionais em incidentes com dados de crianças e adolescentes: não conferidos por esta skill.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15211.htm",
+   "verificado": false,
+   "conferido_em": null,
+   "fonte_local": ""
+  },
+  {
+   "id": "D9637",
+   "norma": "Decreto 9.637/2018",
+   "dispositivo": "inteiro (revogado)",
+   "resumo": "Política Nacional de Segurança da Informação anterior. REVOGADO pelo Decreto 12.572/2025, art. 12, I (DOU de 05/08/2025). Não cite como norma vigente; o art. 17, citado pelo Decreto 10.748/2021, art. 12, IV, não vigora mais.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/D9637.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "d9637.txt"
+  },
+  {
+   "id": "D12572-12",
+   "norma": "Decreto 12.572/2025 (Política Nacional de Segurança da Informação)",
+   "dispositivo": "arts. 10, 11 e 12, I",
+   "resumo": "Institui a nova Política Nacional de Segurança da Informação na administração pública federal. Cabe a cada órgão federal implementar a política, ter comitê interno, designar gestor de segurança da informação e coordenar o gestor de segurança da informação, o encarregado pelo tratamento de dados pessoais e a unidade de TI (art. 10). O GSI pode editar atos complementares (art. 11). Revoga o Decreto 9.637/2018 (art. 12, I). Não tem dispositivo sobre comunicação de incidente.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12572.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "Planalto, via WebFetch em 20/11/2026 09:55 (curl falhou por TLS); texto 'não substitui o publicado no DOU de 5.8.2025'"
+  },
+  {
+   "id": "L8112-143",
+   "norma": "Lei 8.112/1990 (Regime jurídico dos servidores civis da União)",
+   "dispositivo": "art. 143, caput",
+   "resumo": "A autoridade que tiver ciência de irregularidade no serviço público deve promover a apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa.",
+   "link": "https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-19",
+   "fonte_local": "l8112.fresh.txt",
+   "observacao": "Vale para servidores federais. Estados, DF e Municípios: estatuto próprio, não verificado."
+  },
+  {
+   "id": "LAI-23-24",
+   "norma": "Lei 12.527/2011 (LAI)",
+   "dispositivo": "arts. 23 e 24",
+   "resumo": "Informações cuja divulgação possa pôr em risco a segurança da sociedade ou do Estado são passíveis de classificação (art. 23) como ultrassecreta, secreta ou reservada (art. 24).",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "l12527.txt",
+   "observacao": "Usar para restringir informação técnica do incidente em Estados e Municípios exige classificação pelo procedimento da LAI ou de norma local: [CONFERIR]."
+  },
+  {
+   "id": "L9093-2",
+   "norma": "Lei 9.093/1995",
+   "dispositivo": "art. 2º",
+   "resumo": "Feriados religiosos são declarados em lei municipal, em número não superior a quatro, incluída a Sexta-Feira da Paixão.",
+   "link": "https://www.planalto.gov.br/ccivil_03/leis/l9093.htm",
+   "verificado": true,
+   "conferido_em": "2026-11-20",
+   "fonte_local": "l9093.txt",
+   "observacao": "Carnaval não é feriado em lei federal; se não houver expediente, informe a data com --feriados."
+  },
+  {
+   "id": "D11856",
+   "norma": "Decreto 11.856/2023 (Política Nacional de Cibersegurança, PNCiber)",
+   "dispositivo": "não verificado",
+   "resumo": "Possível relação com a resposta a incidentes cibernéticos: conteúdo não conferido por esta skill.",
+   "link": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11856.htm",
+   "verificado": false,
+   "conferido_em": null,
+   "fonte_local": ""
+  },
+  {
+   "id": "PORTARIA-SGD-9511",
+   "norma": "Portaria SGD/MGI 9.511/2025 (Programa de Privacidade e Segurança da Informação, PPSI)",
+   "dispositivo": "não verificado",
+   "resumo": "Vale para os órgãos do Sistema de Administração dos Recursos de Tecnologia da Informação (SISP); controles sobre incidentes não conferidos por esta skill. Instruções normativas do GSI sobre notificação ao CTIR Gov: também não verificadas.",
+   "link": "https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/ppsi",
+   "verificado": false,
+   "conferido_em": null,
+   "fonte_local": ""
+  }
+ ]
+}
