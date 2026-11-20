@@ -1,0 +1,18 @@
+{
+ "criterios_gerais": {"larga_escala": true, "afeta_direitos": true},
+ "criterios_especificos": {"tecnologia_emergente": false, "vigilancia_zona_publica": false, "decisao_automatizada": true, "sensiveis_ou_vulneraveis": true},
+ "outro_fator_alto_risco": null,
+ "justificativas": {
+  "larga_escala": "18 mil alunos e seus responsáveis, em 52 escolas, durante todo o ano letivo e por vários anos",
+  "afeta_direitos": "a pontuação define a prioridade de vaga em creche, o que pode impedir o acesso ao serviço",
+  "tecnologia_emergente": "sistema de gestão convencional, sem IA ou biometria informadas",
+  "vigilancia_zona_publica": "não há câmeras nem monitoramento de espaço público",
+  "decisao_automatizada": "a ordem de prioridade da creche é calculada automaticamente por pontuação",
+  "sensiveis_ou_vulneraveis": "crianças e adolescentes; laudo de deficiência e restrições alimentares (saúde); cor/raça",
+  "outro_fator_alto_risco": ""
+ },
+ "motivo_anpd": null,
+ "seguranca_publica_exclusiva": false,
+ "orgao_sisp_federal": false,
+ "criancas_adolescentes": true
+}

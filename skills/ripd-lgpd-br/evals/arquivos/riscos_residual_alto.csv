@@ -1,0 +1,3 @@
+id;risco;probabilidade;impacto;medidas;probabilidade_residual;impacto_residual;responsavel;prazo
+R1;Reidentificação de pacientes em painel público de atendimentos por bairro;4;5;Agregação mínima de 10 casos por célula;3;4;Vigilância em Saúde;30 dias
+R2;Acesso indevido de servidor ao prontuário;3;5;Registro de acessos;3;4;TI;60 dias

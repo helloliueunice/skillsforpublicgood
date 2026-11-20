@@ -1,0 +1,16 @@
+{
+ "criterios_gerais": {"larga_escala": false, "afeta_direitos": false},
+ "criterios_especificos": {"tecnologia_emergente": false, "vigilancia_zona_publica": false, "decisao_automatizada": false, "sensiveis_ou_vulneraveis": false},
+ "outro_fator_alto_risco": false,
+ "justificativas": {
+  "larga_escala": "cerca de 3 mil agendamentos por mês, só no município, com dados guardados por 90 dias",
+  "afeta_direitos": "o atendimento presencial continua disponível sem agendamento",
+  "tecnologia_emergente": "formulário web simples",
+  "vigilancia_zona_publica": "não há monitoramento",
+  "decisao_automatizada": "a vaga é escolhida pelo próprio cidadão",
+  "sensiveis_ou_vulneraveis": "não há campo de dado sensível; o campo livre de observações foi retirado",
+  "outro_fator_alto_risco": "a equipe avaliou e não identificou outro fator: o formulário não cruza dados com outros sistemas nem condiciona o atendimento"
+ },
+ "seguranca_publica_exclusiva": false,
+ "orgao_sisp_federal": false
+}

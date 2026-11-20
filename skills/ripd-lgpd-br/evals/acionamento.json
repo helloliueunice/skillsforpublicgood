@@ -1,0 +1,31 @@
+{
+ "descricao": "Prompts para testar se a descrição da skill aciona quando deve. Ainda não rodados em modelos reais.",
+ "deve_acionar": [
+  "Preciso fazer o RIPD do novo sistema de prontuário eletrônico da secretaria de saúde.",
+  "O que deve ter um relatório de impacto à proteção de dados pessoais?",
+  "Nosso órgão é do SISP: como preencher o modelo de RIPD do PPSI?",
+  "A ANPD pediu o relatório de impacto do cadastro único municipal. Por onde começo?",
+  "Vamos instalar câmeras de leitura de placas na cidade. Precisa de avaliação de impacto à privacidade?",
+  "Revise este RIPD antes de o encarregado assinar.",
+  "Faça a matriz de riscos ao titular do aplicativo de agendamento de vacinas.",
+  "Quando o RIPD é obrigatório para uma prefeitura?",
+  "Monte a versão pública do relatório de impacto para publicar no site da universidade federal.",
+  "Temos um chatbot com IA que atende cidadãos e guarda conversas. Precisamos de DPIA?",
+  "O tratamento de dados de alunos com deficiência é de alto risco pela resolução da ANPD?",
+  "Quero uma triagem: o novo formulário do Detran exige relatório de impacto LGPD?"
+ ],
+ "nao_deve_acionar": [
+  "Escreva a política de privacidade do site da prefeitura.",
+  "Houve vazamento de dados hoje. Como comunico à ANPD?",
+  "Faça um DPIA pelo GDPR para nossa startup na Alemanha.",
+  "Revise as propostas da licitação de nuvem.",
+  "Reescreva este ofício em linguagem simples.",
+  "Anonimize esta base de dados de pacientes para publicar em dados abertos.",
+  "Responda este pedido de acesso à informação da LAI.",
+  "Dê um parecer jurídico definitivo: a coleta de biometria na escola é legal?",
+  "Avalie a acessibilidade do portal gov.br do órgão.",
+  "Crie um termo de consentimento para pesquisa clínica.",
+  "Calcule o risco de crédito deste cliente.",
+  "Liste os controles da ISO 27001 para o datacenter."
+ ]
+}

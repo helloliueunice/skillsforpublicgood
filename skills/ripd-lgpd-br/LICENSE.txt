@@ -1,0 +1,33 @@
+MIT License
+
+Copyright (c) 2026 Eunice Liu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Avisos de terceiros: esta skill não contém texto nem código copiado de terceiros.
+Textos de leis e demais atos oficiais não são objeto de proteção como direitos autorais
+(Lei 9.610/1998, art. 8º, IV, conferido em 20/11/2026 no Planalto).
+O Guia e o Modelo de RIPD do PPSI 2.0 (SGD/MGI, licença CC BY-NC-ND 4.0) são citados e indicados
+por seção. A skill usa como referência, com crédito, as faixas numéricas de risco do Modelo
+(Tabela 11) e a sua lista de conteúdo publicizável; nenhum texto foi copiado. Faixas numéricas e
+listas de itens são ideias e métodos (Lei 9.610/1998, art. 8º, I).
+As páginas da ANPD em gov.br trazem no rodapé a licença Creative Commons Atribuição-SemDerivações
+3.0 Não Adaptada; a skill só as parafraseia e cita, com link, sem copiar trechos.

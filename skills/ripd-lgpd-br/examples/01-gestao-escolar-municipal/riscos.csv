@@ -1,0 +1,8 @@
+id;risco;probabilidade;impacto;medidas;probabilidade_residual;impacto_residual;responsavel;prazo
+R1;Servidor sem necessidade acessa o laudo de deficiência do aluno (perfil de acesso amplo), expondo dado sensível de criança e gerando risco de discriminação;3;4;"Perfil que limita o laudo à direção e ao atendimento educacional especializado; registro e revisão mensal de acessos";2;4;SME e TI;antes da produção
+R2;Lista pública de prioridade da creche identifica crianças e revela que a família recebe benefício social;4;4;Publicar só código de inscrição e posição, sem nome nem critério individual;1;3;SME;antes da primeira lista
+R3;Pontuação automática com dado desatualizado nega vaga sem que a família saiba por quê;3;4;"Revisão humana antes de indeferir; informação dos critérios e canal de revisão (LGPD, art. 20)";2;3;SME;antes da primeira lista
+R4;Empresa contratada usa ou guarda dados fora das instruções do município (contrato ainda não assinado);3;4;Cláusulas de operador, localização dos dados no Brasil, eliminação no fim do contrato e auditoria;2;3;SME e Procuradoria;antes da assinatura
+R5;Vazamento da base por credencial fraca de usuário das escolas;3;5;"Autenticação em dois fatores para perfis administrativos; bloqueio por tentativas; criptografia";2;4;TI;antes da produção
+R6;Guarda indefinida de dados de ex-alunos e responsáveis;4;2;Tabela de temporalidade e eliminação registrada;2;2;SME;6 meses
+R7;Exportação mensal de frequência envia campos além do exigido pelo programa social;2;3;"Exportar só os campos exigidos; registro de cada envio";1;3;TI;antes da produção
