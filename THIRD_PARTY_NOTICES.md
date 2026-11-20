@@ -1,8 +1,8 @@
 # Avisos de terceiros
 
 Este repositório tem licença MIT (ver `LICENSE`, © 2026 Eunice Liu). **Nenhum texto ou código de
-terceiro foi copiado** para a skill `ripd-lgpd-br`, e por isso nenhum aviso de licença de terceiro
-precisa ser reproduzido. O registro abaixo serve para transparência.
+terceiro foi copiado** para as skills `ripd-lgpd-br` e `incidente-dados-lgpd-br`, e por isso nenhum
+aviso de licença de terceiro precisa ser reproduzido. O registro abaixo serve para transparência.
 
 ## skill `ripd-lgpd-br`
 
@@ -18,3 +18,13 @@ precisa ser reproduzido. O registro abaixo serve para transparência.
 Ideias e métodos não são objeto de proteção como direitos autorais (Lei 9.610/1998, art. 8º, I,
 conferido em 20/11/2026 no Planalto). Faixas numéricas e listas de itens são ideias e métodos. Essa
 é uma avaliação técnica, não um parecer jurídico.
+
+## skill `incidente-dados-lgpd-br`
+
+| Fonte | Licença (conferida em 20/11/2026) | Uso nesta skill |
+|---|---|---|
+| Leis, decretos e resoluções citados (Planalto, DOU, ANPD) | Não protegidos por direito autoral: leis e demais atos oficiais (Lei 9.610/1998, art. 8º, IV) | Citação de dispositivos e resumos próprios |
+| Página "Comunicação de Incidente de Segurança" (CIS) da ANPD (gov.br) | CC BY-ND 3.0, pelo rodapé do portal da ANPD ("Todo o conteúdo deste site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada", lido em 20/11/2026 em páginas da ANPD; a página específica não foi relida) | Só citada, com link, e parafraseada; nada copiado. Como a CC BY-ND 3.0 não permite obra derivada, a skill não adapta o texto |
+| Formulário de Comunicação de Incidente de Segurança da ANPD (.docx) | O arquivo não declara licença (**não verificado**); provavelmente CC BY-ND 3.0, pelo rodapé do portal | Só consultado; os blocos são indicados por paráfrase em `references/modelo-comunicacao-anpd.md`, sem reproduzir perguntas nem layout |
+| `ripd-lgpd-br` (mesmo repositório) | MIT, mesma autora | Trechos de `scripts/_comum.py`, `scripts/dados_pessoais.py` e `evals/rodar_evals.py` reaproveitados |
+| anatelgovbr/ai-skills e ai-prompts | GPL-3.0 | **Não usados** |

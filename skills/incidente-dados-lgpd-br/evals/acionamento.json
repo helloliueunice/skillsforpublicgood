@@ -1,0 +1,30 @@
+{
+ "descricao": "Prompts para testar se a descrição da skill aciona quando deve. Ainda não rodados em modelos reais.",
+ "deve_acionar": [
+  "Tivemos um vazamento de dados de pacientes na secretaria de saúde. Precisamos comunicar à ANPD?",
+  "Qual o prazo para comunicar um incidente de segurança com dados pessoais à ANPD?",
+  "Um ransomware criptografou o sistema da prefeitura. O que fazemos em relação à LGPD?",
+  "Monte a comunicação de incidente para o formulário do SEI!ANPD.",
+  "Escreva o aviso aos cidadãos sobre o vazamento dos dados do cadastro.",
+  "Mandamos uma planilha com dados de servidores para o e-mail errado. Isso é incidente comunicável?",
+  "Roubaram um notebook com dados de alunos, mas o disco era criptografado. Precisamos avisar alguém?",
+  "Como fazer o registro de incidente exigido pela Resolução CD/ANPD 15/2024?",
+  "Soubemos na sexta do acesso indevido ao sistema. Até quando temos para comunicar, considerando o feriado?",
+  "Somos uma autarquia federal: além da ANPD, precisamos avisar o CTIR Gov do incidente?",
+  "Revise esta minuta de comunicação de incidente antes de o encarregado enviar.",
+  "A ANPD pediu complementação da comunicação de incidente. O que devo incluir?"
+ ],
+ "nao_deve_acionar": [
+  "Faça o relatório de impacto à proteção de dados (RIPD) do novo sistema.",
+  "Escreva a política de privacidade do site da prefeitura.",
+  "Monte o plano de resposta a incidentes da TI para os próximos dois anos.",
+  "Como responder a um pedido de acesso a dados pessoais feito por um titular?",
+  "Prepare a notificação de violação de dados pelo GDPR para nossa filial na Irlanda.",
+  "Configure o firewall e o antivírus dos servidores da secretaria.",
+  "Analise este malware e diga qual família de ransomware é.",
+  "Redija a defesa no processo sancionador da ANPD.",
+  "Faça um boletim de ocorrência sobre o furto do notebook.",
+  "Reescreva este ofício em linguagem simples.",
+  "Qual é a multa máxima da LGPD para empresas?"
+ ]
+}

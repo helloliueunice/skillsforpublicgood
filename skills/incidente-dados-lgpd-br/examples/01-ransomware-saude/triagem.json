@@ -1,0 +1,21 @@
+{
+ "incidente_confirmado": true,
+ "dados_pessoais": true,
+ "so_dados_anonimizados": false,
+ "afeta_significativamente": true,
+ "criterios": {"sensiveis": true, "criancas_adolescentes_idosos": true, "financeiros": false, "autenticacao": false, "sigilo": true, "larga_escala": true},
+ "dados_ininteligiveis": false,
+ "orgao_federal": false,
+ "incidente_cibernetico": true,
+ "operador_envolvido": true,
+ "agente_pequeno_porte": false,
+ "criancas_ou_adolescentes": true,
+ "justificativas": {
+  "afeta_significativamente": "agendamento interrompido (uso de serviço de saúde) e exposição de especialidade agendada, com risco de discriminação e golpes",
+  "sensiveis": "especialidade agendada revela dado de saúde (saúde mental, pré-natal)",
+  "criancas_adolescentes_idosos": "cerca de 9 mil menores de 18 anos e 14 mil pessoas com 60 anos ou mais",
+  "sigilo": "informação de saúde do paciente [CONFERIR norma de sigilo aplicável]",
+  "larga_escala": "cerca de 60 mil pacientes, toda a rede municipal",
+  "dados_ininteligiveis": "a base foi copiada sem criptografia, segundo a TI"
+ }
+}

@@ -6,7 +6,7 @@ Contribuições são bem-vindas por *issue* ou *pull request*. Escreva em portug
 
 1. Mexa só na pasta da skill que você quer mudar (e, se precisar, em `tests/` ou `tools/`).
 2. Toda citação de lei, decreto ou norma precisa de fonte oficial conferida, com data
-   (Planalto, DOU, gov.br). Na `ripd-lgpd-br`, a citação entra em `references/normas.json`
+   (Planalto, DOU, gov.br). Nas skills `ripd-lgpd-br` e `incidente-dados-lgpd-br`, a citação entra em `references/normas.json`
    (com `verificado`, `conferido_em` e link) antes de aparecer no texto.
 3. Não reproduza texto protegido (ABNT, ISO, documentos sob CC BY-NC-ND): cite e resuma com suas palavras.
 4. Não use dados pessoais reais em exemplos, testes ou avaliações: CPF e NIS com dígito inválido,
@@ -18,6 +18,8 @@ python3 tests/validar_skill.py
 python3 tests/testar_manutencao.py
 python3 skills/ripd-lgpd-br/evals/testes.py
 python3 skills/ripd-lgpd-br/evals/rodar_evals.py skills/ripd-lgpd-br/evals/referencia
+python3 skills/incidente-dados-lgpd-br/evals/testes.py
+python3 skills/incidente-dados-lgpd-br/evals/rodar_evals.py skills/incidente-dados-lgpd-br/evals/referencia
 agentskills validate skills/<nome-da-skill>   # pip install skills-ref==0.1.1
 ```
 
@@ -32,6 +34,7 @@ agentskills validate skills/<nome-da-skill>   # pip install skills-ref==0.1.1
   (SHA-256) em `tools/fontes_retrato.json`. Fonte que "mudou" exige reconferência humana do
   dispositivo citado; mudança cosmética da página não muda a skill.
 - **Regulação em andamento:** quando a ANPD publicar o regulamento do RIPD ou o de compartilhamento
-  de dados pelo Poder Público (agenda regulatória), atualize `normas.json`, `base-legal.md` e a versão.
+  de dados pelo Poder Público (agenda regulatória), ou alterar o regulamento de comunicação de incidente
+  (Res. CD/ANPD 15/2024), atualize `normas.json`, `base-legal.md` e a versão da skill afetada.
 - **Testes em modelos de IA:** roteiro em `skills/*/evals/README.md`. Ao rodar, registre o resultado em
   `evals/resultados/` e no `CHANGELOG.md`; não invente resultados.
